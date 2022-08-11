@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    Font-family: 'Poppins', sans-serif;
+}
+.container{
+    text-align: center;
+    width: 450px;
+    margin: 30%;
+}
+.title{
+  letter-spacing: 0.2rem;
+    margin-bottom: 40px;
+}
+.review{
+    flex-basis: 31%;
+    background-color:#ffff;
+    border-radius: 10px;
+    padding: 3px 6px;
+    box-sizing: border-box;
+    box-shadow: 0px 0px 5px black;
+}
+#person-img{
+    margin-top: 30px;
+    border-radius: 50%;
+    height: 100px;
+    margin-bottom: 10px;
+}
+#author{
+    letter-spacing: 0.2rem;
+    color: black;
+    margin-bottom: 10px; 
+}
+#job{
+    color: #00ffff;
+}
+
+
+.fa{
+    
+    color: #00ffff;
+   margin-top: 10px;
+
+}
+.random-btn{
+    color: #00ffff;
+    padding: 4px 8px;
+    margin: 10px;
+border-radius: 8px;
+border: 1px black solid;
+letter-spacing: 0,1rem;
+
+}
